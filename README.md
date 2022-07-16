@@ -1,7 +1,7 @@
-![MasterHead](https://miro.medium.com/max/1400/1*i8-u-V8LTTbQwTeUwLI_BQ.gif)
+![MasterHead](https://lfsolutions.net/wp-content/uploads/2021/12/Full-Stack-Development-Featured-Image-LevelFive-Solutions.gif)
 <h1 align="center">Hi 👋, I'm Tymek</h1>
 <h3 align="center">A passionate full stack developer</h3>
-<img src="https://lfsolutions.net/wp-content/uploads/2021/12/Full-Stack-Development-Featured-Image-LevelFive-Solutions.gif" alt="" align="right">
+<img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="" align="right">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madridista5&label=Profile%20views&color=0e75b6&style=flat" alt="madridista5" /> </p>
 
