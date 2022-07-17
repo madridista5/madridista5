@@ -25,8 +25,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madridista5&" alt="madridista5" /></p>
 
 ## Examples of work:
-<a href="https://sobitem.tlossy.networkmanager.pl"><img src="https://raw.githubusercontent.com/madridista5/madridista5/main/1_0_GIF_0.GIF"/></a>
+<a href="https://sobitem.tlossy.networkmanager.pl" target="_blank"><img src="https://raw.githubusercontent.com/madridista5/madridista5/main/1_0_GIF_0.GIF"/></a>
 <br>
-<a href="https://github.com/madridista5/sobitem_back">SoB item APP Backend Repository</a>
+<a href="https://github.com/madridista5/sobitem_back" target="_blank">SoB item APP Backend Repository</a>
 <br>
-<a href="https://github.com/madridista5/sobitem_front">SoB item APP Front-end Repository</a>
+<a href="https://github.com/madridista5/sobitem_front" target="_blank">SoB item APP Front-end Repository</a>
