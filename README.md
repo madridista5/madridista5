@@ -3,8 +3,6 @@
 <h3 align="center">A passionate full stack developer</h3>
 <img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="" align="right">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=madridista5&label=Profile%20views&color=0e75b6&style=flat" alt="madridista5" /> </p>
-
 - 🌱 I’m currently learning **NestJS**
 
 - 📫 How to reach me **tymek.lossy@gmail.com**
@@ -20,3 +18,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madridista5&show_icons=true&locale=en" alt="madridista5" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madridista5&" alt="madridista5" /></p>
+
+## Examples of work:
+<a href="https://sobitem.tlossy.networkmanager.pl"><img src="https://raw.githubusercontent.com/madridista5/madridista5/main/1_0_GIF_0.GIF"/></a>
+<br>
+<a href="https://github.com/madridista5/sobitem_back">SoB item APP Backend Repository</a>
+<br>
+<a href="https://github.com/madridista5/sobitem_front">SoB item APP Front-end Repository</a>
