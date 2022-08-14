@@ -39,8 +39,16 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madridista5&" alt="madridista5" /></p>
 
 ## Examples of work:
-<a href="https://sobitem.tlossy.networkmanager.pl" target="_blank"><img src="https://raw.githubusercontent.com/madridista5/madridista5/main/1_0_GIF_0.GIF"/></a>
+<p>SoBitem App:</p>
+<a href="https://sobitem.tlossy.networkmanager.pl" target="_blank"><img src="https://raw.githubusercontent.com/madridista5/madridista5/main/1_0_GIF_0.GIF" width="500"/></a>
 <br>
 <a href="https://github.com/madridista5/sobitem_back" target="_blank">SoB item APP Backend Repository</a>
 <br>
 <a href="https://github.com/madridista5/sobitem_front" target="_blank">SoB item APP Front-end Repository</a>
+
+<p></p>
+<p></p>
+<p></p>
+<p>Asian Restaurant App:</p>
+<img src="https://github.com/madridista5/madridista5/blob/main/asian_food.gif" width="500"/>
+<a href="https://github.com/madridista5/Asian_Restaurant_front" target="_blank">Asian Restaurant APP Front-end Repository</a>
