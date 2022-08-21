@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ About Me
 - 🌱 I’m currently learning **NestJS**
-
+- 👨‍💻 All of my projects are available at [https://github.com/madridista5?tab=repositories](https://github.com/madridista5?tab=repositories)
 - 📫 How to reach me **tymek.lossy@gmail.com**
 <br>
 <p align="left">
