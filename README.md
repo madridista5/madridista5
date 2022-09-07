@@ -12,9 +12,11 @@
 <br>
 
 ## 🙋‍♂️ About Me
-- 🌱 I’m currently learning **NestJS** and **React**
+- 🌱 I’m currently learning **React**
 - 👨‍💻 All of my projects are available at [https://github.com/madridista5?tab=repositories](https://github.com/madridista5?tab=repositories)
 - 📫 How to reach me **tymek.lossy@gmail.com**
+- 🔭  I’m currently working on "Cars App" (Otomoto clone)
+   - <a>https://github.com/madridista5/cars_app_front/tree/develop</a>
 <br>
 <p align="left">
 </p>
