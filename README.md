@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Tymek</h1>
 <h3 align="center">A passionate full stack developer</h3>
 <img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="" align="right">
-<p>I started learning programming in July 2021. Since then, I have learned the basics of JS, TS, React, Node.js, Express.js, Nest.js, mongoDB and MySQL. I also created a few fullstack projects. I am constantly learning and improving my skills. Now I’m looking for my first job/internship as a junior FullStack or Node.js developer.</p>
+<p align="justify">I started learning programming in July 2021. Since then, I have learned the basics of JS, TS, React, Node.js, Express.js, Nest.js, mongoDB and MySQL. I also created a few fullstack projects. I am constantly learning and improving my skills. Now I’m looking for my first job/internship as a junior FullStack or Node.js developer.</p>
 
 <br>
 
@@ -15,9 +15,8 @@
 - 🌱 I’m currently learning **React**
 - 👨‍💻 All of my projects are available at [https://github.com/madridista5?tab=repositories](https://github.com/madridista5?tab=repositories)
 - 📫 How to reach me **tymek.lossy@gmail.com**
-- 🔭  I’m currently working on "Cars App" (Otomoto clone):
-   - <a>https://github.com/madridista5/cars_app_front/tree/develop</a>
-   - <a>https://github.com/madridista5/cars_app_back/tree/develop</a>
+- 🔭  I’m currently working on my porftolio page:
+   - <a>https://github.com/madridista5/portfolio_front/tree/develop</a>
 <br>
 <p align="left">
 </p>
@@ -65,4 +64,14 @@
 <a href="https://github.com/madridista5/Asian_Restaurant_front" target="_blank">Asian Restaurant APP Front-end Repository</a>
 <br>
 <a href="https://github.com/madridista5/Asian_Restaurant_back" target="_blank">Asian Restaurant APP Backend Repository</a>
+</div>
+
+<h2></h2>
+<div align="center">
+<h4>Cars App:</h4>
+<a href="https://carsapp.tlossy.networkmanager.pl" target="_blank"><img src="https://github.com/madridista5/madridista5/blob/main/cars_app.gif" width="500"/></a>
+<br>
+<a href="https://github.com/madridista5/cars_app_front" target="_blank">Cars App Front-end Repository</a>
+<br>
+<a href="https://github.com/madridista5/cars_app_back" target="_blank">Cars App Backend Repository</a>
 </div>
