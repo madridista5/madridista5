@@ -11,7 +11,7 @@
 
 <br>
 
-<img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="" align="right">
+
 
 ## 🙋‍♂️ About Me
 - 🌱 I’m currently learning **React**
@@ -19,11 +19,8 @@
 - 📫 How to reach me **tymek.lossy@gmail.com**
 - 🔭  I’m currently working on my porftolio page:
    - <a>https://github.com/madridista5/portfolio_front/tree/develop</a>
-<br>
-<p align="left">
-</p>
 
-<h2></h2>
+
 
 ## 🚀 Languages and Tools:
 <div align="center">
