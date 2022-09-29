@@ -11,8 +11,6 @@
 
 <br>
 
-
-
 ## 🙋‍♂️ About Me
 - 🌱 I’m currently learning **React**
 - 👨‍💻 All of my projects are available at [https://github.com/madridista5?tab=repositories](https://github.com/madridista5?tab=repositories)
@@ -20,7 +18,7 @@
 - 🔭  I’m currently working on my porftolio page:
    - <a>https://github.com/madridista5/portfolio_front/tree/develop</a>
 
-
+<br>
 
 ## 🚀 Languages and Tools:
 <div align="center">
@@ -38,12 +36,16 @@
 <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="80" height="80"/> </a> 
 </div>
 
+<br>
+
 ## 📊 My Github Stats
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=madridista5&show_icons=true&bg_color=ffffff&locale=en&layout=compact" alt="madridista5" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madridista5&show_icons=true&locale=en" alt="madridista5" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madridista5&" alt="madridista5" /></p>
+
+<br>
 
 ## Examples of work:
 <div align="center">
