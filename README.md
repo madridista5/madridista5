@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Tymek</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-<p align="justify">I started learning programming in July 2021. Since then, I have learned the basics of JS, TS, React, Node.js, Express.js, Nest.js, mongoDB and MySQL. I also created a few fullstack projects. I am constantly learning and improving my skills. Now I’m looking for my first job/internship as a junior FullStack or Node.js developer.</p>
+<p align="justify">I started learning programming in July 2021. Since then, I have learned the basics of JS, TS, React, Node.js, Express.js, Nest.js, mongoDB and MySQL. I also created a few fullstack projects. I am constantly learning and improving my skills. Now I’m looking for my first job/internship as a junior React developer or Node.js developer.</p>
 
 <br>
 
