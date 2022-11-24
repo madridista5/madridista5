@@ -12,7 +12,7 @@
 <br>
 
 ## 🙋‍♂️ About Me
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning Jest and React Testing Library
 - 👨‍💻 All of my projects are available at [https://github.com/madridista5?tab=repositories](https://github.com/madridista5?tab=repositories)
 - 📫 How to reach me **tymek.lossy@gmail.com**
 - 🔭  I’m currently working on my porftolio page:
