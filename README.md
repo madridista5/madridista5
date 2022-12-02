@@ -12,6 +12,7 @@
 <br>
 
 ## 🙋‍♂️ About Me
+- 🚀 My portfolio website: https://tymeklossy.networkmanager.pl
 - 🌱 I’m currently learning Jest and React Testing Library
 - 👨‍💻 All of my projects are available at [https://github.com/madridista5?tab=repositories](https://github.com/madridista5?tab=repositories)
 - 📫 How to reach me **tymek.lossy@gmail.com**
@@ -48,6 +49,13 @@
 <br>
 
 ## Examples of work:
+<div align="center">
+<h4>Portfolio:</h4>
+<a href="https://tymeklossy.networkmanager.pl" target="_blank"><img src="https://github.com/madridista5/madridista5/blob/main/portfolio.gif" width="500"/></a>
+<br>
+<a href="https://github.com/madridista5/portfolio_front/tree/develop" target="_blank">Portfolio Repository</a>
+
+<h2></h2>
 <div align="center">
 <h4>SoBitem App:</h4>
 <a href="https://sobitem.tlossy.networkmanager.pl" target="_blank"><img src="https://raw.githubusercontent.com/madridista5/madridista5/main/1_0_GIF_0.GIF" width="500"/></a>
