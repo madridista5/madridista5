@@ -53,7 +53,7 @@
 <h4>Portfolio:</h4>
 <a href="https://tymeklossy.networkmanager.pl" target="_blank"><img src="https://github.com/madridista5/madridista5/blob/main/portfolio.gif" width="500"/></a>
 <br>
-<a href="https://github.com/madridista5/portfolio_front/tree/develop" target="_blank">Portfolio Repository</a>
+<a href="https://github.com/madridista5/portfolio_front" target="_blank">Portfolio Repository</a>
 
 <h2></h2>
 <div align="center">
