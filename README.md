@@ -13,11 +13,12 @@
 
 ## 🙋‍♂️ About Me
 - 🚀 My portfolio website: https://tymeklossy.networkmanager.pl
+- 👨 My Linkedin: https://www.linkedin.com/in/tymoteusz-lossy/
 - 🌱 I’m currently learning Jest and React Testing Library
 - 👨‍💻 All of my projects are available at [https://github.com/madridista5?tab=repositories](https://github.com/madridista5?tab=repositories)
 - 📫 How to reach me **tymek.lossy@gmail.com**
 - 🔭  I’m currently working on my porftolio page:
-   - <a>https://github.com/madridista5/portfolio_front/tree/develop</a>
+   - <a>https://github.com/madridista5/portfolio_front</a>
 
 <br>
 
