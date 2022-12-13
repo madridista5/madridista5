@@ -17,8 +17,9 @@
 - 🌱 I’m currently learning Jest and React Testing Library
 - 👨‍💻 All of my projects are available at [https://github.com/madridista5?tab=repositories](https://github.com/madridista5?tab=repositories)
 - 📫 How to reach me **tymek.lossy@gmail.com**
-- 🔭  I’m currently working on my porftolio page:
-   - <a>https://github.com/madridista5/portfolio_front</a>
+- 🔭  I’m currently working on video clone project:
+   - <a>https://github.com/madridista5/yt_c_front/tree/develop</a>
+   - <a>https://github.com/madridista5/yt_c_back/tree/develop</a>
 
 <br>
 
